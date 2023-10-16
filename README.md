@@ -1,2 +1,2 @@
 # AE449
-Files needed for google colab
+This are scripts developed For Undergrade Coursework in AE449 (Aerodynamics)
